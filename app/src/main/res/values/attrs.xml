@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ImagesView">
+        <attr name="imagesMargin" format="dimension"/>
+        <attr name="imagesColumn" format="integer"/>
+    </declare-styleable>
+</resources>
